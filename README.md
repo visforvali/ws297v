@@ -1,11 +1,11 @@
 ---
 layout: page
-title: WS 297Y
+title: WS 297V
 nav_exclude: true
 # permalink: /:path/
 # seo:
 #  type: Course
-#  name: WS 297Y
+#  name: WS 297V
 ---
 
 # WS 297V
