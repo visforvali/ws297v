@@ -22,34 +22,25 @@ schedule:
   - name: Monday
   - name: Tuesday
     events:
-      - name: Class
-        start: 12:15 PM
-        end: 1:40 PM
-        location: 🔊Sync Sessions
       - name: Coffee Chats
-        start: 2:00 PM
-        end: 5:00 PM
-        location: 🔊Cafe (check Zcal)
+        start: 1:00 PM
+        end: 4:00 PM
+        location: 🔊Cafe (book on Zcal)      
   - name: Wednesday
     events:
+      - name: Text Chat Power Hour
+        start: 9:00 AM
+        end: 10:00 AM
+        location: #classroom
+      - name: Class
+        start: 10:00 AM
+        end: 12:00 PM
+        location: 🔊Sync Sessions
       - name: Coffee Chats
         start: 12:00 PM
         end: 2:00 PM
-        location: 🔊Cafe (check Zcal)
-      - name: Potential Times
-        start: 4:00 PM
-        end: 5:00 PM
-        location: DM for availability
+        location: 🔊Cafe
   - name: Thursday
-    events:
-      - name: Class
-        start: 12:15 PM
-        end: 1:40 PM
-        location: 🔊Sync Sessions
-      - name: Potential Times
-        start: 3:00 PM
-        end: 4:00 PM
-        location: DM for availability
   - name: Friday
 
 ---
