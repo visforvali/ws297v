@@ -124,7 +124,7 @@ Due dates for peer review and both the ungraded and revised drafts are listed in
 
 Designing artifacts is a good way to explore, challenge, and check your understanding of the theoretical and conceptual frameworks you've learned about in class. The kind of artifact (text, multimodal project, object) you create will help demonstrate your ability to apply what you've learned. In this project, you'll create an artifact &mdash; an "un-essay," visual artwork, performance, podcast, website, video game, soft sculpture (i.e., textile art), etc. &mdash; that demonstrates a deep understanding of 2-3 theoretical or conceptual frameworks in the class.
 
-You'll then write an accompanying rationale &mdash; like an artist's manifesto &mdash; that summarizes, analyzes, and develops the theoretical concepts you chose and explains the links between your Creative Project and our coursework. 
+You'll then write an accompanying rationale &mdash; like an artist's manifesto &mdash; that summarizes, analyzes, and develops the theoretical concepts you chose and explains the links between your Creative Project and our coursework. This preface should identify your goals in composing and compiling this particular manuscript and explain your choices in craft (i.e. what theories/concepts you chose to emulate in your artifact, as well as how and why) and design (i.e. arrangement in and across pieces)
 
 Here's a non-exhaustive list of questions you might consider addressing:
 
@@ -138,20 +138,4 @@ Here's a non-exhaustive list of questions you might consider addressing:
 Due dates for peer review and both the ungraded and revised drafts are listed in the Calendar.
 
 {: .important }
-> Review Creative Project and Rationale [Model 1 (video including rationale)](assets/25s-ws297v-model_01-epistemic_artifact.mp4){:target="_blank"} and [Model 2 (video)](assets/25s-ws297v-model_01-epistemic_artifact.mp4){:target="_blank"} and [Model 2 (transcript)](assets/25s-ws297v-model_01-epistemic_artifact.mp4){:target="_blank"} for insight into how to approach your own project!
-
-
-
-
-
-
-
-
-
-For your high-stakes project, you'll choose one social justice issue. Your collection will be divided between two parts: 
-
-- A compilation of philosophical/theoretical fiction (theory, fiction, and theory-fiction) that evokes, provokes, and revolves around the social justice issue you chose. Each piece should emulate at least one of the craft techniques we discussed in class
-- A preface that identifies your goals in composing and compiling this particular manuscript and explains your choices in craft (i.e. whose techniques you chose to emulate and why) and design (i.e. arrangement in and across pieces)
-
-{: .note }
-> If you wrote about the social justice issue you chose in your low-stakes posts, you're welcome to modify those posts and integrate them into this project. If you didn't but can easily modify existing low-stakes posts, you're welcome to adapt those posts to be about the social issue justice you chose.
+> Review the Creative Project and Rationale model student projects posted to [Classes > Model Work](classes.pace.edu){:target="_blank"} for insight into how to approach your own project!
