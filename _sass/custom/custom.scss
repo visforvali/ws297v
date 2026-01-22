@@ -9,7 +9,7 @@
 
 // Overrides
 code {
-  font-size: 14px;
+  font-size: 15px;
   padding: 0.2em 0.4em;
   border: none;
 }
@@ -26,6 +26,51 @@ summary {
   @extend .btn, .btn-outline;
 
   width: 100%;
+}
+
+.label-blue-custom {
+  background-color: #779ecb !important;
+  color: #ffffff;
+}
+
+.label-red-custom {
+  background-color: #ff8c00 !important;
+  color: #ffffff;
+}
+
+.label-yellow-custom {
+  background-color: #f4ca16 !important;
+  color: #ffffff;
+}
+
+.label-green-custom {
+  background-color: #74c365 !important;
+  color: #ffffff;
+}
+
+.label-purple-custom {
+  background-color: #746cc0 !important;
+  color: #ffffff;
+}
+
+a:link {
+  color: #8b0000;
+}
+
+a:visited {
+  color: #002147;
+}
+
+a:hover {
+  color: #480607;
+}
+
+a:active {
+  color: #480607;;
+}
+
+.side-bar {
+  background-color: #f6f7ef;
 }
 
 .main-content {

@@ -22,7 +22,7 @@
 
   .schedule-time {
     @extend .fs-2;
-    color: $grey-dk-200;
+    color: $grey-dk-000;
     height: 40px;
     margin: 0;
     padding: $sp-2;
@@ -72,7 +72,7 @@
   }
 
   .schedule-event {
-    background-color: $grey-dk-100;
+    background-color: $grey-dk-000;
     border-radius: $border-radius;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .1), inset 0 -3px 0 rgba(0, 0, 0, .2);
     color: $white;
@@ -92,16 +92,16 @@
       @extend .fs-2;
     }
 
-    &.lecture {
-      background-color: $grey-dk-100;
+    &.class {
+      background-color: $red-200;
     }
 
-    &.section {
-      background-color: $purple-100;
+    &.potential-times {
+      background-color: $yellow-300;
     }
 
-    &.office-hours {
-      background-color: $blue-100;
+    &.coffee-chats {
+      background-color: $blue-000;
     }
   }
 }
