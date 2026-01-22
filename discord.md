@@ -58,7 +58,7 @@ Your profile picture (PFP), username, and user settings (cogwheel icon ⚙️) a
 
 Any changes you make to your Main Profile are visible on all servers you belong to; the Per-Server Profiles menu allows you to use different display names and pronouns on different servers.
 
-<img src="http://visforvali.github.io/ws297y/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
+<img src="http://visforvali.github.io/ws297v/assets/images/change_profile.gif" alt="How to customize your Discord main profile and server profile">
 
 *How to customize your Discord main profile and server profile.* 
 
@@ -90,7 +90,7 @@ Finally, you can add or change your status by hovering over the thought bubble n
 ### Per-Server Profile
 {:.no_toc}
 
-To change your per-server nickname, click the Edit Per-Server Profile tab, choose the WS297Y Classroom server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
+To change your per-server nickname, click the Edit Per-Server Profile tab, choose the WS297V Classroom server from the dropdown menu (if your account is associated with other servers), and change your nickname and pronouns for our server.
 
 # User Preferences
 
@@ -100,7 +100,7 @@ Click the ⚙️ at the bottom-left to access a list of customizable settings.
 
 Under User Settings, you may want to do the following:
 
-<img src="http://visforvali.github.io/ws297y/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
+<img src="http://visforvali.github.io/ws297v/assets/images/preferences.gif" alt="How to customize appearance and accessibility preferences">
 
 *How to customize appearance and accessibility preferences.*
 
@@ -179,7 +179,7 @@ Text channels are indicated by the # symbol in the channel list. **Clicking a te
 
 Text messages are persistent. You can search for old messages by using the upper-right search bar.
 
-<img src="http://visforvali.github.io/ws297y/assets/images/message.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
+<img src="http://visforvali.github.io/ws297v/assets/images/message.gif" alt="How to use text channels, including sending messages and options for interacting with messages">
 
 *How to use text channels, including sending messages and options for interacting with messages.*
 
@@ -216,7 +216,7 @@ In text channels where you can send messages, you also send voice messages, a mo
 
 For in-depth documentation, refer to [Discord's Voice Channel FAQs](https://support.discord.com/hc/en-us/articles/19583625604887-Voice-Channels-FAQs){:target="_blank"}.
 
-<img src="http://visforvali.github.io/ws297y/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
+<img src="http://visforvali.github.io/ws297v/assets/images/voice.gif" alt="How to join, open, and engage with voice channels">
 
 *How to join, open, and engage with voice channels.*
 
