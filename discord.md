@@ -31,7 +31,7 @@ First, you'll need to install the Discord app and create an account.
 
 _This username is not the same as your display name, the prominent name shown when you interact in a server or in direct messages (DMs), which can be changed later._
 
-Once you've completed the registration and verification process, use the Discord server invitation link on Classes to add yourself to the WS 297Y server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
+Once you've completed the registration and verification process, use the Discord server invitation link on Classes to add yourself to the WS 297V server. Refer to Discord's [Getting Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started){:target="_blank"} guide for additional help if needed.
 
 ## Code of Conduct
 
@@ -131,7 +131,7 @@ For precise control over each channel's notifications, regardless of server-wide
 
 Now that you’ve retooled your profile and user preferences, it's time to familiarize yourself with our server!
 
-When you joined the WS 297Y server, you should have landed in the #welcome channel, which contains a link to this tutorial and instructions to select your roles and introduce yourself.
+When you joined the WS 297V server, you should have landed in the #welcome channel, which contains a link to this tutorial and instructions to select your roles and introduce yourself.
 
 Discord consists of a main view in the center (for interactions in text or voice channels), a left panel, an optional member list on the right that shows a list of current server members and their online status (which can be expanded or collapsed by clicking the 👥 icon at the top), and the Direct Messages view.
 
@@ -150,7 +150,7 @@ The left panel contains category headings and channels. Clicking a channel in th
 
 ## Welcome & Server Info
 
-- **#welcome**: Welcome to the WS 297Y Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
+- **#welcome**: Welcome to the WS 297V Discord server! You can find basic instructions, channel descriptions, and other onboarding resources.
 - **#get-roles**: Choose the descriptors that fit you best by selecting the appropriate emoji listed below each of the messages in this channel; this will automatically add them to your public server profile.
 - **#its-help**: To automate questions unrelated to course content, this channel is for all your tech support issues regarding Discord, this website, and/or Classes. 💛 Fill out the ticket form to automatically open a private ticket that will flag me to help you out!
 

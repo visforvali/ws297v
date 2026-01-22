@@ -5,7 +5,7 @@ title: Week 1 - Complicity or Resistance
 
 ## Week 1 - Complicity or Resistance
 \
-🕵️ Review [WS 297Y Course Prospectus](syllabus){:target="_blank"}   
+🕵️ Review [WS 297V Course Prospectus](syllabus){:target="_blank"}   
 🕵️ Review [Discord Tutorial](discord){:target="_blank"}   
 📖 Read Ursula K. LeGuin's ["The Ones Who Walk Away from Omelas"](/ws297y/assets/pdfs/leguin_ones_who_walk_away_from_omelas.pdf){:target="_blank"}   
 

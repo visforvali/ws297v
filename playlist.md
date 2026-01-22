@@ -18,7 +18,7 @@ Need some cool 😎 composition tunes? Look no further! Musical tastes are subje
 
 # Class Kickoff
 
-32 songs for 32 days on the Fall 2025 calendar.
+32 songs for 32 days on the Spring 2026 calendar.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3rAm91N5mcUAfg7zDkTdkA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -138,4 +138,4 @@ Here's a non-exhaustive list of questions you might consider addressing:
 Due dates for peer review and both the ungraded and revised drafts are listed in the Calendar.
 
 {: .important }
-> Review the Creative Project and Rationale model student projects posted to [Classes > Model Work](classes.pace.edu){:target="_blank"} for insight into how to approach your own project!
+> Review the Creative Project and Rationale model student projects posted to [Classes\Content\Model Work](classes.pace.edu){:target="_blank"} for insight into how to approach your own project!

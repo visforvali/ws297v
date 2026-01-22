@@ -16,7 +16,7 @@ nav_order: 7
 {:toc}
 
 {: .important }
-> Besides your composition notebook and the book you've chosen to destroy, all required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297y/) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
+> All required texts are provided for free and are linked in the weeks we'll discuss them on the [Calendar](/ws297v/) page and in chronological order on [Classes\Content\Texts](https://classes.pace.edu){:target="_blank"}.
 
 There are many articles, blogs, books and podcasts that would have been interesting to include in this class but ultimately didn't make the cut. If you have suggestions about materials to share, let me know and I'll add them to the list!
 
@@ -67,13 +67,3 @@ Here are links to buy the solo journaling RPGs I modded for this class, and the 
 - [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/){:target="_blank"}
 - [Venatores](https://goodluckpress.co/products/venatores?pr_prod_strat=jac&pr_rec_id=3373e4029&pr_rec_pid=8022533406914&pr_ref_pid=8022521151682&pr_seq=uniform){:target="_blank"}
 - [Westport Independent](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
-
-# Other Games 🎮
-
-Games that, due to time constraints, didn't make the cut:
-
-- [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide/){:target="_blank"}
-- [The Dark Queen of Mortholme](https://qwertyprophecy.itch.io/mortholme?download){:target="_blank"}
-- [Heaven's Vault](https://www.inklestudios.com/heavensvault/){:target="_blank"}
-- [Papers, Please](https://store.steampowered.com/app/352240/The_Westport_Independent/){:target="_blank"}
-- [Wildermyth](https://wildermyth.com/){:target="_blank"}
