@@ -1,13 +1,3 @@
----
-layout: page
-title: WS 297V README
-nav_exclude: true
-# permalink: /:path/
-# seo:
-#  type: Course
-#  name: WS 297V
----
-
 # WS 297V
 
 This course website for WS 297V: Feminist Disability Justice at Pace University, taught by Dr. Vyshali Manivannan, uses Jekyll and is based on the [Just the Class](https://github.com/kevinlin1/just-the-class) template by Kevin Lin.
