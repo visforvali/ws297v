@@ -22,7 +22,7 @@ nav_order: 9
 
 After clicking [🍵 Let's Chat!](https://zcal.co/drmani){:target="_blank"} at the top right, follow the directions on Zcal to reserve an appointment. First, select the time interval you want (🕛10, 🕐15, or 🕑20 min) at the bottom left, then choose a date/time that works for you.
 
-<img src="http://visforvali.github.io/ws297y/assets/images/zcal.png" alt="Preview of Zcal invite">
+<img src="http://visforvali.github.io/ws297v/assets/images/zcal.png" alt="Preview of Zcal invite">
 
 If there are no available timeslots on a given day, it means I'm fully booked and you'll have to reserve another date/time. I tend to be fully booked around the middle and end of the semester, so make sure to book early and often!
 
