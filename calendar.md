@@ -27,7 +27,7 @@ seo:
 >
 > You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. I'm almost never able to accommodate last-minute requests.
 
-<div style="background-color:blue; opacity:10%;">
+<div style="background-color:blue; background: rgba(0,0,0,0.5);">
 {: .important }
 > I respond to async messages in Discord's text channels and DMs, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
 >
