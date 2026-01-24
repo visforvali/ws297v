@@ -23,8 +23,8 @@ schedule:
   - name: Tuesday
     events:
       - name: Coffee Chats
-        start: 1:00 PM
-        end: 4:00 PM
+        start: 2:00 PM
+        end: 5:00 PM
         location: 🔊Cafe (book on Zcal)      
   - name: Wednesday
     events:

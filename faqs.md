@@ -26,13 +26,28 @@ After clicking [🍵 Let's Chat!](https://zcal.co/drmani){:target="_blank"} at t
 
 If there are no available timeslots on a given day, it means I'm fully booked and you'll have to reserve another date/time. I tend to be fully booked around the middle and end of the semester, so make sure to book early and often!
 
+# Why do we use Discord and an external website in this course?
+
+(This info is cross-posted from the ReadMe file.)
+
+I decided to use Discord + an (this) external website after three consecutive semesters of students wanting to decouple from administrative surveillance, since running class exclusively on Classes means I have to comply with administrative protocols around grading, i.e.:
+
+- I have to count the number of hours you spend on Classes every day, how many hours you spend on different videos, slides, texts, and other materials every day
+- I have to add up how long you spend on discussion posts and other LMS-based activities
+
+In short, mixed-modality or async courses on Classes force instructors to account for your participation with fixed numbers each day/week and make it difficult for us to defend lenient participation grades. Because I pivoted to this Discord + external website combo &mdash; where I can't tally the total hours you spend on class each day and can be more forgiving of an occasional drop in participation and of late work &mdash; participation becomes a more informal activity that I can grade holistically and leniently.
+
+More concretely, this choice allows me to keep most final course grades within the B-range, whereas Classes-based participation forces me to assign grades along a bell curve distribution where the class average is usually a C or C+.
+
+Thus, the Discord + external website combo is designed to protect you from how the university wants instructors to grade you, and therefore works in your favor!
+
 # How are access needs addressed in the course?
 
 With the caveat that universal access is impossible &mdash; it's inevitable that people's access needs aren't always compatible &mdash; but still worth striving for, here's what I'll be doing to address your self-selected access needs in this course (without sacrificing my own):
 
 - I use color-coding, typeface, and/or emoji to offset important information on the website or Discord, like reminders, info that deserves extra emphasis in the modules, tl;dr summaries, and practice exercises
 - To addresss the need for advance notice, the Calendar lists all work you'll do for yourself and work you'll submit to me for the whole semester. All assignments are already described on the website, and you have access to the spaces where you need to post them on Discord (for low-stakes work) and Classes (for high-stakes work)
- - *Note*: All modules will be live this week; after that, you'll have advance notice for everything we do this semester and can pace yourself accordingly
+ - *Note*: All course material will be live this week; after that, you'll have advance notice for everything we do this semester and can pace yourself accordingly
 - I have already identified and separated weekly tasks on the Calendar, but I'll do my best to breakdown these tasks further where relevant in a checklist of work at the beginning of each weekly module
  - *Note*: Always cross-check the work you have to do with the work listed on the calendar!
 - All audiovisual content provided has alt-text and captions

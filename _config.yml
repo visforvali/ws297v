@@ -93,7 +93,7 @@ callouts:
     color: red
   important:
     title: Important!
-    color: blue
+    background-color: blue
   highlight:
     title: Highlight
     color: yellow
