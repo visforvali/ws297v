@@ -29,10 +29,10 @@ seo:
 
 
 {: .important }
-> <div style="background-color:#779ecb;">
+> <div style="background-color:#b4d7ff;">
 > I respond to async messages in Discord's text channels and DMs, and Pace emails &mdash; within 48 hrs during the week. Anything I get over the weekend, I'll respond to on Mon (I *might* reply sooner, but don't count on it). 
 >
-> For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus and/or this website, or have already been asked and answered on Discord and added to the [FAQs](faqs){:target="_blank"} on this site.
+> For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus and/or this website, or have already been asked and answered on Discord and added to the [FAQs](faqs){:.target="_blank"} on this site.
 > </div>
 
 {: .note }
