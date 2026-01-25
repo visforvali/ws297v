@@ -44,20 +44,15 @@ The idea that anyone masters anything in a semester is a myth. But you'll leave 
 # Required Materials 💰
 
 {: .note }
-> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on the [Calendar](/ws297y/){:target="_blank"} on this website.
-
-On your own, you'll need to obtain:
-
-- A composition notebook for journaling by hand (if you're disabled and require assistive technology to write, please contact me)
-- A short prose book (>50 pages) of your choosing that you wouldn't mind parting with. It can be fiction, nonfiction, a book you already own, or a book bought for this purpose, but it must be a book you're willing to destroy
+> All required readings are provided for free. They're uploaded to [Classes\Content](https://classes.pace.edu){:target="_blank"} and are linked on the [Calendar](/ws297v/){:target="_blank"} on this website.
 
 # Technology/Platforms 🌐
 
-This is an **online synchronous course that meets twice a week using Discord** for sync sessions and sync/async text chats. We meet most Tue/Thu but will have some sync-to-async or fully async sessions.
+This is an **online synchronous course that meets once a week using Discord** for sync sessions and sync/async text chats. We'll typically meet on Wed in sync text chat in #classroom from 9AM-10AM followed by sync voice chat from 10AM-12PM, but will have some fully sync or fully async sessions.
 
 Outside of class, you'll read, write, and prepare for our sync class sessions, during which I'll facilitate discussion, answer and float questions, and help you interactively generate prompts and ideas for your writing.
 
-**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Discord Tutorial](/ws297y/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
+**The server invite link is on Classes\Content\Syllabus**. If you're new to Discord, check out our [Discord Tutorial](/ws297v/discord) or the [Beginner's Guide to Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord){:target="_blank"} to get started and reach out if you need help!
 
 {: .important }
 > We won't use Classes *except* for me to do enrollment verification, collect your high-stakes writing, and share your grades with you.
@@ -71,18 +66,19 @@ We'll use 2 platforms (plus occasional use of Classes) this semester:
 # Grading Breakdown 💯
 
 {: .note }
-> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](/ws297y/alt-grading){:target="_blank"} page.
+> For a full description of written work, the alt-grading system, and participation and attendance policy, click the descriptions linked below or check out the full [Alt-Grading System](/ws297v/alt-grading){:target="_blank"} page.
 
-[Participation](https://visforvali.github.io/ws297y/alt-grading/#participation-){:target="_blank"} | 40% 
-[High-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#high-stakes-graded-writing-){:target="_blank"} | 40% 
-[Low-Stakes Writing](https://visforvali.github.io/ws297y/alt-grading/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3){:target="_blank"} | 20% 
+[Participation](https://visforvali.github.io/ws297v/alt-grading/#participation-){:target="_blank"} | 20% 
+[Low-Stakes Writing](https://visforvali.github.io/ws297v/alt-grading/#low-stakes-ungraded-discord-posts-%EF%B8%8F%E2%83%A3){:target="_blank"} | 20% 
+[High-Stakes Writing](https://visforvali.github.io/ws297v/alt-grading/#high-stakes-graded-writing-){:target="_blank"} | 60% 
 
-# Policies for WS 297Y & Pace
+
+# Policies for WS 297V & Pace
 
 {: .important }
-> Make sure to read the policies specific to this course! You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. I've labeled them "WS 297Y" and "Pace" in case you want to skim/skip Pace's boilerplate stuff.
+> Make sure to read the policies specific to this course! You've probably read Pace's policies a thousand times, but they're provided here again in case you ever need the info. I've labeled them "WS 297V" and "Pace" in case you want to skim/skip Pace's boilerplate stuff.
 
-## WS 297Y: Accessibility & Student Support ♿
+## WS 297V: Accessibility & Student Support ♿
 
 If something might affect or is affecting your academic performance, **please talk to me ASAP** so we can work together to meet your needs and the course reqs. I want you to succeed! You don't need documentation to proactively talk to me about issues impacting your learning, whether it's because of disability, mental health challenges, work, family, stress, etc., and you don't need to disclose personal info, either. **Barring emergencies, I need as much advance notice as possible to effectively accommodate you.** You don't need to disclose any more details than you wish. You can just tell me you're dealing with stuff, and we can strategize ways for you to fulfill the course requirements while taking care of yourself. **I'll do my best to accommodate you, but please be aware that my own capacities only extend so far.**
 
@@ -91,7 +87,7 @@ If something might affect or is affecting your academic performance, **please ta
 
 To request an official accommodation for a qualifying disability, a student must self-identify and register with [Student Accessibility Services](https://www.pace.edu/student-accessibility-services){:target="_blank"} (SAS) for his/her/their campus. NYC SAS may be contacted at 212-346-1199 or 161 William St, 10th Floor. PLV SAS may be contacted at 914-773-3201 or the Administration Center, 861 Bedford Road, Pleasantville. 
 
-## WS 297Y: Attendance Policy 🙋
+## WS 297V: Attendance Policy 🙋
 
 {: .warning }
 > In this class, attendance doesn't mean showing up and passively existing. You have to actively participate to be counted as present. If a ballpark number helps, aim for 2-3 contributions during each sync session; in weeks when you're quieter in class, or if you're looking to boost your overall participation, aim for 2-3 substantive text chats outside of class (in addition to homework posts).
@@ -119,7 +115,7 @@ This class is writing-enhanced, so writing and revision are central to learning 
 
 This class is an antiracism education course and fulfills the ARE requirement, so diversity, equity, race, and ethnicity are central to learning content and achieving course goals. In the context of our course content, you'll learn about commitments to eliminate racism, receive exposure to a variety of perspectives, and acquire an antiracist toolkit that you can use in future classes or workplaces or for social justice causes. Antiracism education is considered necessary for career readiness, so this class will also help you prepare for your future world of work.
 
-## WS 297Y: Academic Integrity & Brain-Only Writing 🧠
+## WS 297V: Academic Integrity & Brain-Only Writing 🧠
 
 {: .important }
 > You're responsible for following Pace's [Academic Integrity Code](https://www.pace.edu/sites/default/files/files/student-handbook/pace-university-academic-integrity-code.pdf){:target="_blank"}. Don't invent research data, lie about engaging with a text, fabricate a source, pass off another human's responses as your own, or use GenAI. In accordance with university policy, all violations of academic integrity will be reported to your academic adviser and the Academic Conduct Committee. 

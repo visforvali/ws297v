@@ -33,7 +33,7 @@ seo:
 > For a quicker response to questions or project help, ask in #classroom or #team on Discord. Please note that I deprioritize questions about course material/logistics that are explained in the course syllabus and/or this website, or have already been asked and answered on Discord and added to the [FAQs](faqs){:target="_blank"} on this site.
 
 {: .note }
-> **All lecture notes will be linked in the calendar below after sync class sessions.**
+> **All slides are linked in the calendar next to their respective sync class sessions.**
 
 {% for module in site.modules %}
 {{ module }}

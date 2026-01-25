@@ -1,23 +1,19 @@
 ---
-title: Week 6 - Just the Facts?
+title: Week 6 - Managing Stigma
 {: .text-epsilon}
 ---
 
-## Week 6 - Just the Facts?
+## Week 6 - Managing Stigma
 
-📖 Read Teju Cole, ["What It Is"](/ws297y/assets/pdfs/cole_what_it_is.pdf){:target="_blank"}   
-📖 Read Nibedita Sen, ["Ten Excerpts from an Annotated Bibliography on the Cannibal Women of Ratnabar Island"](/ws297y/assets/pdfs/sen_10_excerpts_from_annotated_bib.pdf){:target="_blank"}   
+📖 Read Tobin Siebers, ["Disability as Masquerade"](/ws297v/assets/texts/siebers_disability_as_masquerade.pdf){:target="_blank"}   
+📖 Read Cindy LaCom, ["The Politics of Shit in Disability Studies"](https://dsq-sds.org/article/id/683/){:target="_blank"} 
 
-Oct 7
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297y/prompts/#i-hope-this-email-finds-you){:target="_blank"}
+Mar 4
+: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297v/prompts/#annotation){:target="_blank"}, [I Hope This Email Finds You](https://visforvali.github.io/ws297v/prompts/#i-hope-this-email-finds-you){:target="_blank"}
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} The Researcher's Tools
-  : [lecture notes](/ws297y/notes/notes-6.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Sen, Cole
-  : cn: colonialism, imperialism
-  : &nbsp;
-
-Oct 9
-: **Async**{: .label .label-purple-custom } To Love and Kill What's Monstrous
-: **Text Chat**{: .label .label-blue-custom} #team workshop
- : **TTRPG**{: .label .label-yellow-custom } *B&V* Stages 4-6
+: **Lecture**{: .label .label-yellow-custom} Managing Stigma
+  : [slides](https://docs.google.com/presentation/d/1vl7loEBZ0UU2DqwrGvXXDZblDUF-_8pOXsWk7vpWy2g/edit?usp=drive_link){:target="_blank"}
+: **Discussion**{: .label .label-blue-custom } Siebers
+  : cn: ableism, dynamic disability, passing, performativity
+: **Discussion**{: .label .label-blue-custom } LaCom
+  : cn: bodily fluids, chronic illness, excrement, stigma management

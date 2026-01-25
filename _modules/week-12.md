@@ -1,21 +1,21 @@
 ---
-title: Week 12 - Apocalyptic Tenderness
+title: Week 12 - Care Work & Crip Kinship
 {: .text-epsilon}
 ---
 
-## Week 12 - Apocalyptic Tenderness
+## Week 12 - Care Work & Crip Kinship
 
-📖 Read Carmen Maria Machado, ["Inventory"](/ws297y/assets/pdfs/machado_inventory.pdf){:target="_blank"}   
+📖 Read Mia Mingus, ["Access Intimacy, Interdependence, and Disability Justice"](https://leavingevidence.wordpress.com/2017/04/12/access-intimacy-interdependence-and-disability-justice/){:target="_blank"}   
+📖 Read Carolyn Lazard, ["How to Be a Person in the Age of Autoimmunity"](https://projectrowhouses.org/howtobeapersonintheageofautoimmunity/){:target="_blank"}   
 
-Nov 18
-: **Post by 11am**{: .label .label-red-custom } Choose *one* of: [Poetic Inference](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Copycat](https://visforvali.github.io/ws297y/prompts/#copycat){:target="_blank"}
+Apr 15
+: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Feminist Disability Justice Poetics](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}
   : &nbsp;
-: **Lecture**{: .label .label-blue-custom} A Tender Apocalypse
-  : [lecture notes](/ws297y/notes/notes-12.1){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom} Machado
-  : cn: pandemic, sex
-
-Nov 20
-: **Text-only**{: .label .label-purple-custom} Navigating a Haunted House
-: **TTRPG**{: .label .label-yellow-custom } *Dwelling* Room 1
-  : [instructions](/ws297y/notes/notes-12.2){:target="_blank"}
+: **Lecture**{: .label .label-yellow-custom} Care Work & Crip Kinship
+  : [slides](https://docs.google.com/presentation/d/1SxY4JT4lKY6JKDAEjzAfWJj_yoaOC9ahYrsxim_h6ao/edit?usp=drive_link){:target="_blank"}
+: **Discussion**{: .label .label-blue-custom} Mingus
+  : cn: access intimacy, activism
+: **Discussion**{: .label .label-blue-custom} Lazard
+  : cn: autoimmune conditions, chronic illness, misdiagnosis, medical gaslighting, near-death experience
+: **Workshop by Thu 11:59pm**{: .label .label-purple-custom } Review your peers' Creative Project & Rationale WIP in #team
+: **Post by Sat 12pm**{: .label .label-red-custom } Submit revised Creative Project & Rationale WIP to Classes

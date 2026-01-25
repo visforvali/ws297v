@@ -30,61 +30,48 @@ The questions you come up with in your low-stakes posts will be integrated into 
 All of the low-stakes prompts and instructions are listed below. Here's a model post as well if it helps!
 
 {: .new }
-> ✍️ **Poetic Inference**: In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
+> ✍️ **Feminist Disability Justice Poetics**: In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
 >
 > Are we supposed to think that the page = bodies that resist easy understanding? And if so, are we supposed to think that inference is more dangerous for readers who approach the page like its passive, or for readers who approach the page expecting a confrontation? Or, thinking of social justice now, should the page *always* be a confrontation?
 
 **Your responses should always include at least one question about the text you're responding to.**
 
-
-
-
-
-
-
 ## Annotation
 
 Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches your attention, immediately annotate it with a guess as to why it struck you. Use these annotations to guide you in formulating a question you have about the relationship between the text's form, the reader, and its social justice argument. Attach a photograph of one of your annotated pages with your response as well. 
 
-## Copycat
-
-Locate an excerpt you either loved or hated, and use the same style to formulate a question about the form/content relationship in the text. Write your question in the same style. Pay attention to the readerly/writerly mindset that this use of mimicry puts you in, or removes you from, and use this to help you answer the question you just posed.
-
-## I Hope This Email Finds You
-
-*SUBJ*: Re: Your question about how genre/audience are used for social justice   
-*MSG*: Formulate a question that deliberately misunderstands the aims of this text, then pretend you're writing a 3-5 paragraph email explaining the the text's genre/audience and social justice message in response to someone who has asked you this question. 
-
-## Just Curious
-
-Formulate a "starter" question about something in the text that you're curious about &mdash; a sentence, a word, a metaphor, a title, a plot point, a characterization moment &mdash; and its relationship with social justice. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. In answering *this* question, reflect on how pursuing readerly curiosity about this part of the text might develop a specific aspect of social justice consciousness.
-
-## Keyholes
-
-A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidden room. Identify a passage that gave you a glimpse into something that previously felt like a locked or forbidden room. Alternatively, identify a passage that shows you quite firmly that the room will always be locked to you, and that whatever access you're granted will always be partial, like the view through a keyhole. In either case, formulate a question concerning both why it used to feel that way, what craft decisions "unlocked" the room for you, and how this might play a role in writing for social justice.
-
-## Loved Lines
-
-Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences; the precise language, rhythm, or shape of each sentence; or the way its white spaces create insights. Next, find an ordinary, tangible (not online) object in your home that you love the same way, i.e. if you love these lines for their minimalism, you might find a solar-powered charger, a quarter-teaspoon, a hairline crack in the wall, a pencil worn all the way down; if you love them for a rhythm you can feel in your flesh, you might find an iPod and headphones, or your feet in the shoes that dance with you at a party. Let your thinking be loose and associative. Take a photo of this object and share it with your post (and don't explain the relationship between the lines and the object you chose).
-
-
-## Poetic Inference
+## Feminist Disability Justice Poetics
 
 Identify 2-5 lines (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on in and between sentences that inspired and anchored your interpretation. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice.
 
+## I Hope This Email Finds You
+
+*SUBJ*: Re: A question you formulated that deliberately misunderstands the aims of this text
+*MSG*: Pretend you're writing a 3-5 paragraph email correcting someone (whoever you like!) who has asked you this question, accurately explaining the text's theoretical/conceptual frameworks and purpose. 
+
+## Just Curious
+
+Formulate a "starter" question about something in the text that you're curious about &mdash; a concept, a cited reference, a metaphor, an anecdote, a particular disability politic or poetics &mdash; and its relationship with contemporary society and/or systems of oppression. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. In answering *this* question, reflect on how pursuing readerly curiosity about this part of the text might develop a specific aspect of feminist disability justice consciousness.
+
+## Keyholes
+
+A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidden room. Identify a passage that gave you a glimpse into something that previously felt like a locked or forbidden room. Alternatively, identify a passage that shows you quite firmly that the room will always be locked to you, and that whatever access you're granted will always be partial, like the view through a keyhole. In either case, formulate a question concerning both why it used to feel that way, what in that passage (content, craft, or both) "unlocked" the room for you, and how this might play a role in developing a feminist disability justice consciousness.
+
+## Loved Lines
+
+Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences; the precise language, rhythm, or shape of each sentence; or the way its white spaces create insights. Consider how this effect contributed to your understanding of the overall aims of the text (or of something else related to feminist disability justice).
+
 ## Stumbling Blocks
 
-Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the social justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
+Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the feminist disability justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
 
 ## Truth to Power
 
-Choose a minor character &mdash; a character who isn't the protagonist and whose interiority we aren't given &mdash; and use their perspective to speak truth to power, attempting to fill a gap that the protagonist ignores or doesn't successfully address. You can use first-person ("I"), second-person ("you"), or third-person ("name/pronoun"); select the perspective you think will best accomplish this, and briefly note why.
+Use a fictional perspective to speak truth to power, attempting to enact an aim of the text or fill a gap that the author ignores or doesn't thoroughly address. You can invent a character, use a character from pop culture, or fictionalize your own persona, and you can use first-person ("I"), second-person ("you"), or third-person ("name/pronoun"). Note why this perspective best accomplishes this goal.
 
 ## Why
 
-Come up with 5 questions about 5 different craft techniques &mdash; descriptions, rhythm, white space, lack of white space, poetics, etc. &mdash; that induced sensations in you while you were reading, and answer 2 of them. Of the 2 you answered, also address why you feel these 2 techniques induced the specific sensations that they did.
-
-
+Come up with 5 questions about 5 different craft techniques &mdash; descriptions, rhythm, white space, lack of white space, poetics, etc. &mdash; that induced sensations in you while you were reading, and answer 2 of them. Of the 2 you answered, also address why you feel these 2 techniques induced the specific sensations that they did and why they are effective vehicles for feminist disability justice messaging.
 
 
 # High-Stakes Writing
