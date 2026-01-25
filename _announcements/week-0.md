@@ -4,6 +4,8 @@ week: 0
 date: 2026-01-19
 ---
 
+*Please note that, as of 1/25/26, the course website is still being finalized and will go fully live before the second week of the course.*
+
 Dear Students,
 
 Welcome to Spring 2026 and WS 297V: Feminist Disability Justice, offered through the [Women's and Gender Studies Department at Pace University](https://www.pace.edu/dyson/departments/womens-and-gender-studies){:target="_blank"}, chaired by [Dr. Meghana Nayak](mnayak@pace.edu) (your point-person if you have an administrative problem that goes beyond our course).
