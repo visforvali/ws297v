@@ -13,7 +13,7 @@ seo:
 <p class="fs-6 fw-300">WS 297Y at Pace University 👋🏾</p>
 
 
-<small>**Fall 2025**{: .label .label-blue-custom } **Tue, Thu 12:15PM - 1:40PM**{: .label .label-blue-custom } **Online Sync**{: .label .label-blue-custom } **Discord**{: .label .label-blue-custom }</small>
+<small>**Spring 2026**{: .label .label-blue-custom } **Wed 9:00AM - 10:00AM**{: .label .label-blue-custom } **Sync Text Chat**{: .label .label-blue-custom } **Wed 10:00AM - 12:00PM**{: .label .label-blue-custom } **Sync Voice Chat**{: .label .label-blue-custom } **Discord**{: .label .label-blue-custom }</small>
 
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -23,7 +23,7 @@ seo:
 
 
 {: .warning }
-> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐10, 🕐15, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) to talk about any aspect of class, college, life, etc. Book early and often! And if these times don't work for your schedule, you can DM me to arrange an alternate time. The [Class Schedule](schedule) shows some potential times you can ask about, but we can figure it out if those times don't work for you, either. 
+> I reserve 5 hrs/wk for by-appointment coffee chats on Discord. You can book a 🕐10, 🕐15, or 🕧20 min chat with me over voice-and-video or voice-only (ideal for commutes and work breaks) to talk about any aspect of class, college, life, etc. Book early and often! And if these times don't work for your schedule, you can DM me to arrange an alternate time.
 >
 > You must contact me **at least 1 week in advance** to schedule a chat outside of my standard coffee chat times. I'm almost never able to accommodate last-minute requests.
 

@@ -22,21 +22,24 @@ nav_order: 3
 > 
 > The syllabus and calendar for this class are living documents and may be modified to better fit the needs of our class. I'll announce any changes I make in #classroom and Classes\Announcements.
 
-This course focuses on genres of resistance &mdash; particularly the lyric essay &mdash; and what it means to write for social justice. Part-webinar, part-roleplay, part-workshop, you'll be introduced to the elements of poetry, fiction, and creative nonfiction through reading, writing, and individual and cooperative play. Since social justice writing is writing that _does_ something to its audience, you'll regularly engage with, interpret (and create!) texts that model how content and form act together on readers. In doing so, you'll consider questions like: 
+WS 297V invites you into academic and activist conversations about different forms of feminist disability justice. You'll be introduced to antiracist, feminist, queer, and trans frameworks to explore how systems of oppression, medicalization, and normalization shape disability and disabled experience and advocacy, e.g.:
 
-- How have we been shaped, personally and politically, by reading and writing? 
-- How have systems of power and oppression shaped who and how we read; who and what we write about; how we compose and perceive our compositions; and which genres we consider "legitimate" genres?
-- What potential impact can we &mdash; through what we write &mdash; have on our communities and institutions? 
+- how embodied differences are constructed, interpreted, and acted upon in medical, social, educational, and professional contexts
+- how disability becomes a site for the exercise of disciplinary power and social control
+- and how we might reimagine embodied resistance, care work, and collective liberation. 
+
+We'll center disability as a complex, context-dependent social construct instead of a pathologizing, deficit-based label and destigmatize aspects of disabled experience and activism. Finally, we'll create practical toolkits for daily survival in ableist, sexist, racist, and otherwise bigoted environments.
 
 # Learning Outcomes ✅
 
 The idea that anyone masters anything in a semester is a myth. But you'll leave the class with at least a sense of:
 
-- Existing arguments about the relationship between writing and social justice
-- The role of the relationship between form and content in writing for social justice
-- How intersectional feminist, queer, trans, and/or crip modes of writing operate
-- What might belong in a literary canon of resistance
-- How to write for social justice yourself
+- Different perspectives on and models of feminist disability justice
+- How systemic ableism, sexism, and racism stigmatizes, medicalizes, and delegitimizes anomalous embodiment, shaping how disabled people are treated
+- How disability justice challenges curative logics
+- How to critically analyze able-bodyminded privilege and academic ableism
+- How to strategize and mobilize using disability justice frameworks to prioritize the needs and demands of marginalized communities
+- How to teach-back critical conceptual vocabulary from key theories we take up in this class
 
 # Required Materials 💰
 
