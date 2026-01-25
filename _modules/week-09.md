@@ -9,7 +9,7 @@ title: Week 9 - Claiming Unwellness
 📖 Read Shayda Kafai, ["The Mad Border-Body"](https://dsq-sds.org/article/id/181/){:target="_blank"}   
 
 Mar 25
-: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297y/prompts/#annotation){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297y/prompts/#loved-lines){:target="_blank"}
+: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}, [Annotation](https://visforvali.github.io/ws297v/prompts/#annotation){:target="_blank"}, [Loved Lines](https://visforvali.github.io/ws297v/prompts/#loved-lines){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Claiming Unwellness
   : [slides](https://docs.google.com/presentation/d/1VF7wMZsWla7ImYxT2T8cjII7sNOceu_GYfQIXzEjmYU/edit?usp=drive_link){:target="_blank"}

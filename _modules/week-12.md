@@ -9,7 +9,7 @@ title: Week 12 - Care Work & Crip Kinship
 📖 Read Carolyn Lazard, ["How to Be a Person in the Age of Autoimmunity"](https://projectrowhouses.org/howtobeapersonintheageofautoimmunity/){:target="_blank"}   
 
 Apr 15
-: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Feminist Disability Justice Poetics](https://visforvali.github.io/ws297y/prompts/#poetic-inference){:target="_blank"}, [Why](https://visforvali.github.io/ws297y/prompts/#why){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}
+: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Feminist Disability Justice Poetics](https://visforvali.github.io/ws297v/prompts/#poetic-inference){:target="_blank"}, [Why](https://visforvali.github.io/ws297v/prompts/#why){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Care Work & Crip Kinship
   : [slides](https://docs.google.com/presentation/d/1SxY4JT4lKY6JKDAEjzAfWJj_yoaOC9ahYrsxim_h6ao/edit?usp=drive_link){:target="_blank"}
