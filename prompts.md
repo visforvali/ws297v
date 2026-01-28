@@ -30,15 +30,16 @@ The questions you come up with in your low-stakes posts will be integrated into 
 All of the low-stakes prompts and instructions are listed below. Here's a model post as well if it helps!
 
 {: .new }
-> ✍️ **Feminist Disability Justice Poetics**: In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
+> **Feminist Disability Justice Poetics** 
+> In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
 >
 > Are we supposed to think that the page = bodies that resist easy understanding? And if so, are we supposed to think that inference is more dangerous for readers who approach the page like its passive, or for readers who approach the page expecting a confrontation? Or, thinking of social justice now, should the page *always* be a confrontation?
 
-**Your responses should always include at least one question about the text you're responding to.**
+**Your responses must include at least one question about the text you're responding to.**
 
 ## Annotation
 
-Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches your attention, immediately annotate it with a guess as to why it struck you. Use these annotations to guide you in formulating a question you have about the relationship between the text's form, the reader, and its social justice argument. Attach a photograph of one of your annotated pages with your response as well. 
+Skim the reading again. As soon as you encounter a word, phrase, or sentence that catches your attention, immediately annotate it with a guess as to why it struck you and a note about its relationship to the text's aims and disability justice as a whole. Use these annotations to guide you in formulating a question you have about the relationship between the text's aims and/or genre, its readers (you!), and its disability justice frameworks. Attach a photograph of one of your annotated pages with your response as well. 
 
 ## Feminist Disability Justice Poetics
 
@@ -46,8 +47,7 @@ Identify 2-5 lines (they don't have to be consecutive) that made you feel like y
 
 ## I Hope This Email Finds You
 
-*SUBJ*: Re: A question you formulated that deliberately misunderstands the aims of this text
-*MSG*: Pretend you're writing a 3-5 paragraph email correcting someone (whoever you like!) who has asked you this question, accurately explaining the text's theoretical/conceptual frameworks and purpose. 
+Respond to the text using the format of an email reply to someone who has misunderstood the aims of the text, in which you correct their misconceptions, e.g.: *SUBJ*: Re: The question that deliberately misunderstands the aims of this text; *MSG*: A 3-5 paragraph email correcting the inquirer (you can pretend it's whoever you like!) who has asked you this question, accurately explaining the text's theoretical/conceptual frameworks and purpose.
 
 ## Just Curious
 
@@ -71,7 +71,7 @@ Use a fictional perspective to speak truth to power, attempting to enact an aim 
 
 ## Why
 
-Come up with 5 questions about 5 different craft techniques &mdash; descriptions, rhythm, white space, lack of white space, poetics, etc. &mdash; that induced sensations in you while you were reading, and answer 2 of them. Of the 2 you answered, also address why you feel these 2 techniques induced the specific sensations that they did and why they are effective vehicles for feminist disability justice messaging.
+Come up with 2 questions about 2 different disability justice concepts and 2 questions about 2 different craft techniques (e.g., descriptions, rhythm, white space, lack of white space, poetics, etc.) that induced sensations in you while you were reading. Answer 1 of each set of questions. Of the 2 you answered, address why that concept is important to disability justice movements and why that craft technique is an effective vehicle for feminist disability justice messaging.
 
 
 # High-Stakes Writing
