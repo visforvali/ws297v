@@ -5,7 +5,7 @@ title: Week 10 - Spring Break!
 
 ## Week 10 - Spring Break!
 
-📖 No readings
+📖 No readings!
 
 Apr 1
 : **Spring Break**{: .label .label-red} 3/30 - 4/4

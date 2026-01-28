@@ -13,7 +13,5 @@ Mar 11
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Retrofits and Disability Dongles
   : [slides](https://docs.google.com/presentation/d/1K3P1zSmAdiSLL7JuqZQWuTqp46E1HhAlVdPebNsumTw/edit?usp=drive_link){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Dolmage
-  : cn: academic ableism, crip space, retrofit
-: **Discussion**{: .label .label-blue-custom } Jackson, Haagard, & Williams
-  : cn: ableism, disability dongle, retrofit, technoscience
+: **Discussion**{: .label .label-blue-custom } Dolmage; Jackson et al.
+  : cn: academic ableism, disability dongle, crip space, retrofit, technoscience

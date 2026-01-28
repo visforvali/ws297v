@@ -13,7 +13,5 @@ Mar 4
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Managing Stigma
   : [slides](https://docs.google.com/presentation/d/1vl7loEBZ0UU2DqwrGvXXDZblDUF-_8pOXsWk7vpWy2g/edit?usp=drive_link){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Siebers
-  : cn: ableism, dynamic disability, passing, performativity
-: **Discussion**{: .label .label-blue-custom } LaCom
-  : cn: bodily fluids, chronic illness, excrement, stigma management
+: **Discussion**{: .label .label-blue-custom } Siebers, LaCom
+  : cn: ableism, bodily fluids, chronic illness, dynamic disability, excrement, passing, performativity, stigma management

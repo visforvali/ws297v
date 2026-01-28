@@ -14,8 +14,6 @@ Mar 25
 : **Lecture**{: .label .label-yellow-custom} Claiming Unwellness
   : [slides](https://docs.google.com/presentation/d/1VF7wMZsWla7ImYxT2T8cjII7sNOceu_GYfQIXzEjmYU/edit?usp=drive_link){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Khuc
-  : cn: academic unwellness, Asian-American unwellness, mental illness
-: **Discussion**{: .label .label-blue-custom } Kafai
-  : cn: ableism, mad studies, sanism
-: **Workshop by Thu 11:59pm**{: .label .label-purple-custom } Workshop WIP Accessibility Audit & Guide in #team & draft team-authored
-: **Post by Sat 12pm**{: .label .label-red-custom } Submit team compilation of Access Guides with team-authored foreword to [Classes\Assignments](https://classes.pace.edu){:target="_blank"}
+  : cn: academic unwellness, Asian-American unwellness, mad studies, mental illness, sanism
+: **Workshop by Thu 11:59pm**{: .label .label-purple-custom } Workshop WIP Access Audit & Guide in #team, draft team-authored foreword
+: **Post by Sat 12pm**{: .label .label-red-custom } Access Guide compilation with foreword to [Classes\Assignments](https://classes.pace.edu){:target="_blank"}

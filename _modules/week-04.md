@@ -13,8 +13,5 @@ Feb 18
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Feminist Disability Justice as Method
   : [slides](https://docs.google.com/presentation/d/17jnNPOkHVdGnyI4msJTPQk8oSJhID9NiN_fqgq25Was/edit?usp=drive_link){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom } Ahmed
-  : cn: ableism, feminism, killjoy
-: **Discussion**{: .label .label-blue-custom } Khanmalek & Rhodes
-  : cn: ableism, chronic illness, intersectionality, racism, sexism, queer politics
-  
+: **Discussion**{: .label .label-blue-custom } Ahmed, Khanmalek & Rhodes
+  : cn: ableism, feminism, chronic illness, intersectionality, killjoy, racism, sexism, queer politics

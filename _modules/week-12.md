@@ -13,9 +13,7 @@ Apr 15
   : &nbsp;
 : **Lecture**{: .label .label-yellow-custom} Care Work & Crip Kinship
   : [slides](https://docs.google.com/presentation/d/1SxY4JT4lKY6JKDAEjzAfWJj_yoaOC9ahYrsxim_h6ao/edit?usp=drive_link){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom} Mingus
-  : cn: access intimacy, activism
-: **Discussion**{: .label .label-blue-custom} Lazard
-  : cn: autoimmune conditions, chronic illness, misdiagnosis, medical gaslighting, near-death experience
+: **Discussion**{: .label .label-blue-custom} Mingus, Lazard
+  : cn: access intimacy, activism, autoimmune conditions, chronic illness, misdiagnosis, medical gaslighting, near-death experience
 : **Workshop by Thu 11:59pm**{: .label .label-purple-custom } Review your peers' Creative Project & Rationale WIP in #team
 : **Post by Sat 12pm**{: .label .label-red-custom } Submit revised Creative Project & Rationale WIP to Classes

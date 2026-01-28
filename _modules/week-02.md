@@ -14,6 +14,4 @@ Feb 4
 : **Lecture**{: .label .label-yellow-custom} Reframing Meaning
   : [slides](https://docs.google.com/presentation/d/1Q-IbSiO0Opj6AbiRfqtH_hdVN02V9rELhahq3J23edY/edit?usp=drive_link){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Linton, Hedva
-  : cn: ableism, meaning-making, normalcy
-: **Discussion**{: .label .label-blue-custom} Hedva
-  : cn: ableism, activism, chronic illness, coalition building, sexism
+  : cn: ableism, activism, chronic illness, coalition building, meaning-making, normalcy, sexism
