@@ -43,7 +43,7 @@ Skim the reading again. As soon as you encounter a word, phrase, or sentence tha
 
 ## Feminist Disability Justice Poetics
 
-Identify 2-5 lines (they don't have to be consecutive) that made you feel like your senses came alive. Try to figure out what's going on in and between sentences that inspired and anchored your interpretation. Use this process to guide you in formulating a question you have about the text's poetics and reliance on reader inference to get at the aims of social justice.
+Identify 2-5 lines (they don't have to be consecutive) where a disability poetics or similar craft technique is working to enhance your understanding of a particular disability justice concept or theoretical framework. Formulate a question about the relationship between this kind of poetics and reliance on reader inference to get at the aims of disability justice.
 
 ## I Hope This Email Finds You
 
