@@ -13,5 +13,5 @@ Feb 25
 : **Lecture**{: .label .label-purple-custom} Representational Politics
   : [slides](https://docs.google.com/presentation/d/1LMHnBJ9pUI8YrRu9IjawJhimnYMhnQsL_Mmnny7YCy4/edit?usp=drive_link){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom } Kim & Schalk
-  : cn: ableism; capitalism; intersectionality; racism; sexism; self-care
+  : cn: ableism; capitalism; intersectionality; self-care
   
