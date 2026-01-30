@@ -15,3 +15,4 @@ Apr 22
 : **Discussion**{: .label .label-blue-custom } Kafer
   : cn: ableism; accessibility; activism; coalition building
 : **Post by Sat 12pm**{: .label .label-red-custom } Complete Discord poll in #lounge asking which texts you'd like to revisit next week
+  : &nbsp;
