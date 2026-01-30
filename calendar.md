@@ -9,8 +9,8 @@ seo:
   name: WS 297Y
 ---
 
-# Creative Writing for Social Justice
-<p class="fs-6 fw-300">WS 297Y at Pace University 👋🏾</p>
+#  Feminist Disability Justice
+<p class="fs-6 fw-300">WS 297V at Pace University 👋🏾</p>
 
 
 <small>**Spring 2026**{: .label .label-blue-custom } **Wed 9:00AM - 12:00PM**{: .label .label-blue-custom } **Sync Text and Voice Chat**{: .label .label-blue-custom } **Discord**{: .label .label-blue-custom }</small>
