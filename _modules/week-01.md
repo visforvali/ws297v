@@ -11,10 +11,10 @@ title: Week 1 - Settling In
 📖 Read Leah Piepzna-Samarasinha, ["Crip Emotional Intelligence"](/ws297v/assets/texts/piepzna-samarasinha_crip_emotional_intelligence.pdf){:target="_blank"}
 
 Jan 28
-: **Lecture**{: .label .label-yellow-custom} Settling In
+: **Lecture**{: .label .label-purple-custom} Settling In
   : [slides](https://docs.google.com/presentation/d/1q-pqA6P9Jz1btvJLU215Ev1bTEpWL-H58MsOH6cMaKc/edit){:target="_blank"}
-: **Discussion**{: .label .label-blue-custom} Sins Invalid, Piepzna-Samarasinha
-  : cn: ableism, racism, sexism
+: **Discussion**{: .label .label-blue-custom} Sins Invalid; Piepzna-Samarasinha
+  : cn: ableism; care work; intersectionality; racism; sexism
 : **Practice**{: .label .label-green-custom } Tech setup and exploration
   : &nbsp;
 : **Due Midnight**{: .label .label-red-custom} Finish customizing Discord
