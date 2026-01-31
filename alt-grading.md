@@ -78,14 +78,14 @@ Nothing in this class is busy work. Low-stakes work can be &mdash; is designed t
 > 
 > Drafts of high-stakes writing are scored on the basis of completion. Drafts that actively work towards the project's stated purpose, engage with the material, and are unafraid of "getting things wrong" on the way to figuring things out are accepted and will be marked "Cr" for "Credit." If I can't accept a draft for credit for substantive reasons, I'll mark it "Nc" for "No Credit."
 
-This class culminates in one multipart high-stakes writing project, in which you'll write a compilation of theoretical fiction (theory, fiction, and theory-fiction) revolving around a social justice issue of your choosing. Additionally, these pieces should emulate the craft techniques we discuss.
+This class has two high-stakes writing projects: an access audit and guide, and a creative project with an accompanying rationale. The assignment guidelines can be found on the [Writing Prompts](/prompts.md){:target="_blank"} page.
 
-The assessment criteria for the high-stakes project are:
+The assessment criteria for the high-stakes projects are:
 
-- Your writing decisions (form, content, genre) in each piece must enact and/or contribute to the argument
-- You must emulate a craft technique from at least 8 of the texts we read
-- You must modify and incorporate at least 1 piece of writing you produced during *each* of our TTRPG solo journaling games
-- You must write a foreword that explains why writing these pieces like you did was the best way to get your readers to think more deeply about the issue you chose: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation
+- You must have attempted to complete all parts of the assignment in good faith, i.e. thoughtfully and thoroughly
+- You must engage with the texts we read in class in each high-stakes project, and you must use different texts in each high-stakes project
+- Your forewords for both high-stakes projects should explain why writing these pieces like you did was the best way to get your aims across: the decisions you're most proud of, most insecure about, and/or that most need an "in case readers don't get it" explanation
+- Your writing decisions (form, content, genre) in the creative project must enact and/or contribute to the argument
 
 # Deadlines & Grace Period 😇
 
