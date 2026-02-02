@@ -70,12 +70,11 @@ Identify a place where you felt confusion, and then identify the place where (if
 
 ## Truth to Power
 
-Identify a place in the text where you felt the need to speak truth to power, to challenge an unjust system designed to oppress disabled people. Express this challenge through a series of 5 questions, as though you're interrogating the authority figure within this unjust system. Then, choose one of these 5 questions and attempt to answer it. In answering, you may respond as yourself or use a fictional persona (if you use a fictional persona, note why this perspective best accomplishes this goal).
+Identify a place in the text where you felt the need to speak truth to power, to challenge an unjust system designed to oppress disabled people. Express this challenge by formulating 5 questions addressed to an imaginary authority figure within this unjust system. Then, choose one of these 5 questions and attempt to answer it. In answering, you may respond as yourself or use a fictional persona (if you use a fictional persona, note why this perspective best accomplishes this goal).
 
 ## Why
 
 Come up with 2 questions about 2 different disability justice concepts and 2 questions about 2 different craft techniques (e.g., descriptions, rhythm, white space, lack of white space, poetics, etc.) that induced sensations in you while you were reading. Answer 1 of each set of questions. Of the 2 you answered, address why that concept is important to disability justice movements and why that craft technique is an effective vehicle for disability justice messaging.
-
 
 # High-Stakes Writing
 
