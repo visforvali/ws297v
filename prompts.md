@@ -29,7 +29,7 @@ The questions you come up with in your low-stakes posts will be integrated into 
 
 All of the low-stakes prompts and instructions are listed below. Here's a model post as well if it helps!
 
-{: .new }
+{: .note }
 > **Feminist Disability Justice Poetics** 
 > In Atwood's "The Page," the lines "The page is not a pool but a skin, a skin is there to hold in and it can feel you touching it. Did you really think it would just lie there and do nothing?" felt like a revelation. I think I always knew this but didn't have the words, so it resonated when she first called it "a skin." Between sentences, I think the switch from a sort of matter-of-fact description (the *is* is doing a lot of work) to an accusatory question is meant to be quick and disorienting and make readers feel (infer?) the risk of reading and writing, which mostly is treated like a safe, boring activity. The page is a skin which means it's also a thing with skin, full of organs like a living body, and the same way skin touches you back when you touch it, the page acts on you when you read it or write on it. There's maybe a kind of feminist nod to the violation of gender and sexual norms with "lie there and do nothing" &mdash; the (female/gender nonconforming) body is not a passive thing for you to impose meaning onto.
 >
