@@ -106,7 +106,6 @@ Due dates for peer review and both the ungraded and revised drafts are listed in
 {: .important }
 > Read this individually authored [model Access Guide](assets/25s-ws297v-model_01-access_guide.pdf){:target="_blank"} for insight into how to approach your own accessibility audit!
 
-
 ## Creative Project & Rationale
 
 {: .important }
