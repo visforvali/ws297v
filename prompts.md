@@ -47,31 +47,34 @@ Identify 2-5 lines (they don't have to be consecutive) where a disability poetic
 
 ## I Hope This Email Finds You
 
-Respond to the text using the format of an email reply to someone who has misunderstood the aims of the text, in which you correct their misconceptions, e.g.: *SUBJ*: Re: The question that deliberately misunderstands the aims of this text; *MSG*: A 3-5 paragraph email correcting the inquirer (you can pretend it's whoever you like!) who has asked you this question, accurately explaining the text's theoretical/conceptual frameworks and purpose.
+Respond to the text using the format of an email reply to someone who has misunderstood the aims of the text, in which you correct their misconceptions, e.g.:
+
+*SUBJ*: Re: The question that deliberately misunderstands the aims of this text
+*MSG*: A 3-5 paragraph email correcting the inquirer (you can pretend it's whoever you like!) who has asked you this question, accurately explaining the text's theoretical/conceptual frameworks and purpose.
 
 ## Just Curious
 
-Formulate a "starter" question about something in the text that you're curious about &mdash; a concept, a cited reference, a metaphor, an anecdote, a particular disability politic or poetics &mdash; and its relationship with contemporary society and/or systems of oppression. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. In answering *this* question, reflect on how pursuing readerly curiosity about this part of the text might develop a specific aspect of feminist disability justice consciousness.
+Formulate a "starter" question about something in the text that you're curious about &mdash; a theoretical framework, a concept, a cited reference, an anecdote, a historical trajectory, a particular disability politic or poetics &mdash; and its relationship with popular constructions of disability and the systems/institutions that uphold and perpetuate them. Ask another question that gets you closer to an answer. Keep going until you come up with a question that feels like you've stumbled upon a question that grabs you, even if it's far from the original question. In answering *this* question, reflect on how pursuing readerly curiosity about this part of the text might develop a specific aspect of disability justice consciousness.
 
 ## Keyholes
 
-A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidden room. Identify a passage that gave you a glimpse into something that previously felt like a locked or forbidden room. Alternatively, identify a passage that shows you quite firmly that the room will always be locked to you, and that whatever access you're granted will always be partial, like the view through a keyhole. In either case, formulate a question concerning both why it used to feel that way, what in that passage (content, craft, or both) "unlocked" the room for you, and how this might play a role in developing a feminist disability justice consciousness.
+A keyhole offers a partial glimpse of a locked room &mdash; possibly, a forbidden room. Identify a passage that gave you a glimpse into something that previously felt like a locked or forbidden room. Alternatively, identify a passage that shows you quite firmly that the room will always be locked to you, and that whatever access you're granted will always be partial, like the view through a keyhole. In either case, formulate a question concerning both why it used to feel that way, what in that passage (content, craft, or both) "unlocked" the room for you, and how this might play a role in developing a disability justice consciousness.
 
 ## Loved Lines
 
-Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences; the precise language, rhythm, or shape of each sentence; or the way its white spaces create insights. Consider how this effect contributed to your understanding of the overall aims of the text (or of something else related to feminist disability justice).
+Type out (don't copy and paste!) 3 sentences that you loved from the text. Ask and answer a question that falls under a general inquiry into why you loved these lines (but isn't that exact question), and that helps you elaborate on the effect of a pattern across sentences, e.g.: the precise language, rhythm, or shape of each sentence, the way its white spaces create insights, etc. Consider how this effect contributed to your understanding of the overall aims of the text (or of something else related to disability justice).
 
 ## Stumbling Blocks
 
-Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the feminist disability justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
+Identify a place where you felt confusion, and then identify the place where (if) you found your footing again. Reflect on how being confused by that part of the text specifically might help enact the disability justice argument(s) of the piece as a whole. Try to interpret both the part of the text that confused you and the part of the text that clarified things for you. 
 
 ## Truth to Power
 
-Use a fictional perspective to speak truth to power, attempting to enact an aim of the text or fill a gap that the author ignores or doesn't thoroughly address. You can invent a character, use a character from pop culture, or fictionalize your own persona, and you can use first-person ("I"), second-person ("you"), or third-person ("name/pronoun"). Note why this perspective best accomplishes this goal.
+Identify a place in the text where you felt the need to speak truth to power, to challenge an unjust system designed to oppress disabled people. Express this challenge through a series of 5 questions, as though you're interrogating the authority figure within this unjust system. Then, choose one of these 5 questions and attempt to answer it. In answering, you may respond as yourself or use a fictional persona (if you use a fictional persona, note why this perspective best accomplishes this goal).
 
 ## Why
 
-Come up with 2 questions about 2 different disability justice concepts and 2 questions about 2 different craft techniques (e.g., descriptions, rhythm, white space, lack of white space, poetics, etc.) that induced sensations in you while you were reading. Answer 1 of each set of questions. Of the 2 you answered, address why that concept is important to disability justice movements and why that craft technique is an effective vehicle for feminist disability justice messaging.
+Come up with 2 questions about 2 different disability justice concepts and 2 questions about 2 different craft techniques (e.g., descriptions, rhythm, white space, lack of white space, poetics, etc.) that induced sensations in you while you were reading. Answer 1 of each set of questions. Of the 2 you answered, address why that concept is important to disability justice movements and why that craft technique is an effective vehicle for disability justice messaging.
 
 
 # High-Stakes Writing
