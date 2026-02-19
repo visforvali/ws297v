@@ -14,5 +14,3 @@ Feb 11
   : [slides](https://docs.google.com/presentation/d/1C40d7XjnJ177QlyYJcYpzOoFmbF9MWImVwHBsJq50Ag/edit?usp=drive_link){:target="_blank"}
 : **Discussion**{: .label .label-blue-custom} Clare
   : cn: ableism; curative logics; eugenics; media literacy
-: **In-Class Game**{: .label .label-yellow-custom } [*Robin*](https://robingame.itch.io/robin){:target="_blank"}
-  : cn: medical gaslighting; 
