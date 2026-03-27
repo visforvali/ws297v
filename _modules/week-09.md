@@ -16,6 +16,3 @@ Mar 25
 : **Discussion**{: .label .label-blue-custom } Khuc
   : cn: academic ableism; Asian-American unwellness; mad studies; sanism
 : **Workshop by Thu 11:59pm**{: .label .label-yellow-custom } Workshop WIP Access Audit & Guide in #team, draft team-authored foreword
-  : &nbsp;
-: **Post by Sat 12pm**{: .label .label-red-custom } Access Guide compilation with foreword to [Classes\Assignments](https://classes.pace.edu){:target="_blank"}
-  : &nbsp;
