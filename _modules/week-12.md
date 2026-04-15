@@ -17,7 +17,3 @@ Apr 15
   : cn: access intimacy; activism; chronic illness; misdiagnosis; medical gaslighting
 : **In-Class Game**{: .label .label-yellow-custom } [*Robin*](https://robingame.itch.io/robin){:target="_blank"}
   : cn: medical gaslighting
-: **Workshop by Thu 11:59pm**{: .label .label-yellow-custom } Review your peers' Creative Project & Rationale WIP in #team
-  : &nbsp;
-: **Post by Sat 12pm**{: .label .label-red-custom } Submit revised Creative Project & Rationale WIP to Classes
-  : &nbsp;
