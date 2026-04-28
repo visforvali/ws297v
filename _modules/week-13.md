@@ -17,6 +17,3 @@ Apr 22
 : **Workshop by Thu 11:59pm**{: .label .label-yellow-custom } Review your peers' Creative Project & Rationale WIP in #team
   : &nbsp;
 : **Post by Sat 12pm**{: .label .label-red-custom } Submit revised Creative Project & Rationale WIP to Classes
-  : &nbsp;
-: Complete Discord poll in #lounge asking which texts you'd like to revisit next week
-  : &nbsp;

@@ -8,7 +8,7 @@ title: Week 14 - Revisiting Texts
 📖 Readings from Week 13 Discord poll results
 
 Apr 29
-: **Post by 9am**{: .label .label-red-custom } Choose *one* of: [Feminist Disability Justice Poetics](https://visforvali.github.io/ws297v/prompts/#feminist-disability-justice-poetics){:target="_blank"}, [Truth to Power](https://visforvali.github.io/ws297v/prompts/#truth-to-power){:target="_blank"}, [Just Curious](https://visforvali.github.io/ws297v/prompts/#just-curious){:target="_blank"}
+: **Post by 9am**{: .label .label-red-custom } Brief Self-Assessment (guiding question posted in #classroom)
   : &nbsp;
 : **Lecture**{: .label .label-purple-custom} Revisiting Texts
   : [slides](){:target="_blank"}
